@@ -1,8 +1,10 @@
-# firefox-search-woordenlijst-nl
+# firefox-search-woordenlijst-org
 
-Search Tool add-on for Firefox to seach Dutch Word List
+Firefox search tool for Woordenlijst.org, the Dutch Word List
 
-_Zoekgereedschap add-on voor Firefox om Nederlandse Woordenlijst te doorzoeken_
+_Firefoxzoekgereedschap voor Woordenlijst.org, de Nederlandse Woordenlijst_
+
+http://addons.mozilla.org/addon/woordenlijst-org
 
 http://woordenlijst.org
 
