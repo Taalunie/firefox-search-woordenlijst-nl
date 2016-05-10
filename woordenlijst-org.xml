@@ -17,4 +17,5 @@
         <Param name="q" value="{searchTerms}"/>
     </Url>
     <SearchForm>http://woordenlijst.org/#/</SearchForm>
+    <Query role="example" searchTerms="gezellig"/>
 </OpenSearchDescription>
