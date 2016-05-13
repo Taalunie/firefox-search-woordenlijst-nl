@@ -12,6 +12,7 @@
     <Url rel="self" template="http://woordenlijst.org/woordenlijst-org.xml" type="application/opensearchdescription+xml">
     </Url>
     <Url method="GET" resultDomain="woordenlijst.org" template="http://woordenlijst.org/opensearch" type="application/x-suggestions+json">
+        <Param name="searchTerms" value="{searchTerms}"/>
     </Url>
     <Url method="GET" resultDomain="woordenlijst.org" template="http://woordenlijst.org/#/" type="text/html">
         <Param name="q" value="{searchTerms}"/>
